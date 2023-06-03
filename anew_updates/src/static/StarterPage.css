@@ -1,0 +1,42 @@
+.contained {
+    display: grid;
+    padding-left: 250px;
+  }
+
+.h1{
+  font-size: xx-large;
+  text-align: center;
+}
+  
+  .item {
+    width: 250px;
+    height: 750px;
+  }
+  
+  .item1 {
+    grid-area: item1;
+    width: 300px;
+    height: 100%;
+    padding: 20px;
+    align-items: center;
+}
+  
+  .item2 {
+    grid-area: item2;
+    width: 300px;
+    height: 100%;
+    padding: 20px;
+    align-items: center;
+}
+  
+  .item3 {
+    grid-area: item3;
+    width: 300px;
+    height: 100%;
+    padding: 20px;
+    align-items: center;
+  }
+
+button{
+  align-items: center;
+}
