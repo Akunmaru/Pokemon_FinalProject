@@ -53,7 +53,7 @@ const PokeForm = (props: PokemonForm) => {
             </div>
             <div>
                 <Button 
-                className='flex justify-start m-3 bg-red-300 p-2 rounded hover:bg-red-500 text-white'>
+                className='flex justify-start m-3 bg-red-600 p-2 rounded hover:bg-red-500 text-white'>
                     Catch!
                 </Button>
             </div>
